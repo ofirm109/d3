@@ -1,0 +1,102 @@
+﻿body {
+    /*background-color: #C1EDFF;*/
+    /*background-color: white;*/
+    background-color: #f9fbff;
+    font-family: 'Assistant', sans-serif;
+}
+
+.myBack {
+    background-color:#b4e8ff;
+    background-size: 100%;
+}
+
+#container {
+    overflow: hidden;
+    position: relative;
+}
+
+#containerGame {
+    overflow: hidden;
+}
+
+#continer2 {
+    width: 960px;
+    margin: 0 auto;
+}
+
+gameArea {
+    width: 100%;
+    height: 100%;
+}
+
+iframe {
+    width: 100%;
+    height: 90%;
+    position: absolute;
+}
+
+
+#gameArea {
+    margin-top: -20px;
+}
+
+#logo {
+    width: 150px;
+    height: 50px;
+    margin-right: 10px;
+}
+
+nav {
+    font-size: large;
+    font-weight: bold;
+}
+
+p {
+    font-size: medium;
+    direction:rtl;
+}
+
+.b {
+    font-weight: bold;
+}
+
+.TextElineRite {
+    text-align: right;
+}
+
+.odotForLink {
+    margin-right: -130px;
+    display: inline-block;
+}
+
+.odot {
+    margin-top: 30px;
+}
+
+
+#insPic {
+    width: 184px;
+    position: absolute;
+    margin-right: 384px;
+    margin-top: 92px;
+}
+
+#aboutLogo {
+    display: inline;
+    float: right;
+    margin-right: 120px;
+}
+
+#hedLogo {
+    display: inline;
+    float: right;
+    margin-right: 50px;
+}
+
+.hedLogo {
+    display: inline-block;
+    margin-right: -100px;
+}
+.navbar{
+    background-color:aliceblue;
+}
